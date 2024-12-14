@@ -11,8 +11,8 @@
 "Rust is installed now. Great!"が表示されたらOK.<br />
 "rustup --version"でバージョン情報表示を確認できたら完了。
 3. 'source "$HOME/.cargo/env"'、またはターミナルソフト再起動でcargoコマンド有効化
-4. cargo new rrrust
-5. cd rrrust
+4. cargo new hello_cargo
+5. cd hello_cargo
 6. cargo run
 7. "Hello, world!"
 
@@ -26,6 +26,9 @@ VScodeを使う場合
 ## Reference
 Rustのインストール関連<br />
 https://qiita.com/maoutokagura/items/c2fd85132bcec399c3a1
+
+Rust チュートリアル<br/>
+https://doc.rust-jp.rs/book-ja/title-page.html
 
 ## Auther
 [Twitter(新X) @kazewatariperu](https://x.com/kazewatariperu)
