@@ -2,5 +2,7 @@
     "rust-analyzer.linkedProjects": [
         "./hello_cargo/Cargo.toml",
         "./guessing_game/Cargo.toml",
+        "./variables/Cargo.toml",
+        "./no3_practice/Cargo.toml",
     ]
 }
